@@ -9,7 +9,8 @@
 
 I am a **Full Stack Developer** building web apps. I work mostly with ReactJS, NodeJS. Also I work as a UI/UX designer when there's a need to fill that role.
 
-You will find projects related random stuff in my repos. Look below to find projects that I can share (while others are private repos 😅)
+You will find projects for random stuff in my repos.
+Look below to find projects that I can share (while others are private repos 😅)
 
 
 ### Some of my projects (that you can contribute to)...
