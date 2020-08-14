@@ -15,14 +15,14 @@ Look below to find projects that I can share (while others are private repos ðŸ˜
 
 ### Some of my projects (that you can contribute to)...
 
-[**react-instagram-dpe**](https://github.com/jawwadzafar/react-instagram-dp) ![Stars](https://img.shields.io/github/stars/jawwadzafar/react-instagram-dp?style=flat-square)
+[**react-instagram-dp**](https://github.com/jawwadzafar/react-instagram-dp) ![Stars](https://img.shields.io/github/stars/jawwadzafar/react-instagram-dp?style=flat-square)
 
 A React Instagram Full Display Picture Viewer.
 
 [**Telegram Price tracker Bot**](https://github.com/jawwadzafar/cryptoPriceTracker-telegram-bot) ![Stars](https://img.shields.io/github/stars/jawwadzafar/cryptoPriceTracker-telegram-bot?style=flat-square)
 
 
-### What I am upto (boring stuff) ðŸ˜´
+### What I am upto?
 
 Reading a book, playing video games or just sleeping.
 
