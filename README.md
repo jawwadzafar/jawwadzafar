@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-jawwadzafar-green?style=flat-square&logo=medium)](https://medium.com/@jawwadzafar)
 </br>
 
-### Hi there, I'm Jawwad 👨‍💻
+### Hi there, I'm Jawwad Zafar 👨‍💻
 
 I am a **Full Stack Developer** building web apps. I work mostly with ReactJS, NodeJS. Also I work as a UI/UX designer when there's a need to fill that role.
 
