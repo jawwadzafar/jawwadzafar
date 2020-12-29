@@ -27,7 +27,7 @@ A React Instagram Full Display Picture Viewer.
 Reading a book, playing video games or just sleeping.
 
 ### Stats
-[![Jawwad's github stats](https://github-readme-stats.vercel.app/api?username=jawwadzafar&hide=contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jawwad's github stats](https://github-readme-stats.vercel.app/api?username=jawwadzafar&hide=issues,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 ![Visitor Count](https://profile-counter.glitch.me/{jawwadzafar}/count.svg)
