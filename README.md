@@ -9,9 +9,6 @@
 
 I am a **Full Stack Developer** building web apps. I work mostly with ReactJS, NodeJS. Also I work as a UI/UX designer when there's a need to fill that role.
 
-You will find projects for random stuff in my repos.
-Look below to find projects that I can share (while others are private repos ðŸ˜…)
-
 
 ### Some of my projects (that you can contribute to)...
 
@@ -20,11 +17,6 @@ Look below to find projects that I can share (while others are private repos ðŸ˜
 A React Instagram Full Display Picture Viewer.
 
 [**Telegram Price tracker Bot**](https://github.com/jawwadzafar/cryptoPriceTracker-telegram-bot) ![Stars](https://img.shields.io/github/stars/jawwadzafar/cryptoPriceTracker-telegram-bot?style=flat-square)
-
-
-### What I am upto?
-
-Reading a book, playing video games or just sleeping.
 
 ### Stats
 [![Jawwad's github stats](https://github-readme-stats.vercel.app/api?username=jawwadzafar&hide=issues,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
