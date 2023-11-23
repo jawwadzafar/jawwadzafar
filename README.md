@@ -23,9 +23,3 @@ A React Instagram Full Display Picture Viewer.
 
 [**Telegram Price tracker Bot**](https://github.com/jawwadzafar/cryptoPriceTracker-telegram-bot) ![Stars](https://img.shields.io/github/stars/jawwadzafar/cryptoPriceTracker-telegram-bot?style=flat-square)
 
-### Stats
-[![Jawwad's github stats](https://github-readme-stats.vercel.app/api?username=jawwadzafar&hide=issues,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-###
-![Visitor Count](https://profile-counter.glitch.me/{jawwadzafar}/count.svg)
-
