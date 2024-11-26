@@ -13,13 +13,3 @@
 ### Hi there, I'm Jawwad 👨‍💻
 
 I am a **Full Stack Developer** building web apps. I work mostly with ReactJS, NodeJS. Also I work as a UI/UX designer when there's a need to fill that role.
-
-
-### Some of my projects (that you can contribute to)...
-
-[**react-instagram-dp**](https://github.com/jawwadzafar/react-instagram-dp) ![Stars](https://img.shields.io/github/stars/jawwadzafar/react-instagram-dp?style=flat-square)
-
-A React Instagram Full Display Picture Viewer.
-
-[**Telegram Price tracker Bot**](https://github.com/jawwadzafar/cryptoPriceTracker-telegram-bot) ![Stars](https://img.shields.io/github/stars/jawwadzafar/cryptoPriceTracker-telegram-bot?style=flat-square)
-
